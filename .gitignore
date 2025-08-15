@@ -1,8 +1,0 @@
-
-# Virtual environment
-.venv/
-
-# Local scripts you don't want in repo
-2.py
-3.py
-4.py
